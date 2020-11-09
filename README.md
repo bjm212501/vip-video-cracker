@@ -1,6 +1,6 @@
 # VIP视频在线解析 - AlanBai
 
-[https://bjm212501.github.io/vip-video-cracker/ 点击进入网站]
+[[https://bjm212501.github.io/vip-video-cracker/ 点击进入网站]]
 
 更新日志
 
